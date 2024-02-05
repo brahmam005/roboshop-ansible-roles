@@ -13,7 +13,6 @@
     name: mongodb
     state: started
     enabled: yes
-    become: true
 
 - name: allow remote connections
   ansible.builtin.replace:
