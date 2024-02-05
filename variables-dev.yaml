@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.brahmam005aws.shop # submit your host
+REDIS_HOST: redis.brahmam005aws.shop
+MYSQL_HOST: mysql.brahmam005aws.shop
+RABBITMQ_HOST: rabbitmq.brahmam005aws.shop
+CATALOGUE_HOST: catalogue.brahmam005aws.shop
+USER_HOST: user.brahmam005aws.shop
+CART_HOST: cart.brahmam005aws.shop
+SHIPPING_HOST: shipping.brahmam005aws.shop
+PAYMENT_HOST: payment.brahmam005aws.shop
+DISPATCH_HOST: dispatch.brahmam005aws.shop
